@@ -1,0 +1,12 @@
+/application/config/
+/application/logs/
+/application/cache/
+/.htaccess
+/docs/
+/install/
+/system/
+/vendor/
+/index.php
+/nbproject/
+.htaccess
+
