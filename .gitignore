@@ -9,5 +9,7 @@
 /index.php
 /nbproject/
 .htaccess
-themes/vandona/assets/font-awesome
+uploads/
+themes/vandona/assets/font-awesome/
+
 
